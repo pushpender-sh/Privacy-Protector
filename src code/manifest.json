@@ -1,7 +1,7 @@
 {
-    "name": "DevSage Adblocker",
+    "name": "Privacy Protector",
     "version": "1.0",
-    "description": "DevSage Adblocker Tutorial",
+    "description": "Agile Software Development",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
